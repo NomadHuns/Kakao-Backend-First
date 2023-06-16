@@ -1,0 +1,31 @@
+{
+  "success" : true,
+  "response" :
+    {
+      "carts" : [
+        {
+          "cartId" : 1,
+          "optionId" : 5,
+          "optionName" : "2겹 식빵수세미 6매",
+          "quantity" : 3,
+          "price" : 26700
+        },
+        {
+          "cartId" : 2,
+          "optionId" : 10,
+          "optionName" : "JR310BT (무선 전용) - 레드",
+          "quantity" : 5,
+          "price" : 249500
+        },
+        {
+          "cartId" : 3,
+          "optionId" : 11,
+          "optionName" : "JR310BT (무선 전용) - 그린",
+          "quantity" : 5,
+          "price" : 249500
+        }
+      ],
+      "totalPrice" : 525700
+    },
+  "error" : null
+}
